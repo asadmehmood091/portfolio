@@ -1,0 +1,56 @@
+{
+	"Websites": [
+		{
+			"person": "asadmehmood.info",
+			"link": "https://asadmehmood.info/",
+			"note": ""
+		}
+
+	],
+
+	"links": [
+		{
+			"person": "Home",
+			"link": "https://asadmehmood.info/",
+			"note": ""
+		},
+		{ 
+			"person": "Documentations",
+			"link": "https://asadmehmood.info/docs",
+			"note": ""
+		},	{
+			"person": "Articles",
+			"link": "https://asadmehmood.info/articles",
+			"note": ""
+		},
+
+		{
+			"person": "Projects",
+			"link": "https://asadmehmood.info/projects",
+			"note": ""
+		},
+		{
+			"person": "Contact",
+			"link": "mailto:asadmehmood091@gmail.com",
+			"note": ""
+		}
+
+
+	],
+
+	"social": [
+		{
+			"url": "https://facebook.com/@muhammad-fiaz",
+			"icon": "facebook"
+		},
+		
+		{
+			"url": "https://www.linkedin.com/in/asad-mehmoodbs/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/asadmehmood091",
+			"icon": "github"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "asadmehmood.info",
+    "pubDate": "2023-07-05",
+    "link": "",
+    "author": "Asad Mehmood",
+    "thumbnail": "/img/jobs.png",
+    "categories": ["Portfolio", "Website", "Blog","personal"]
+  },
+  {
+    "title": "Driver Alertness",
+    "pubDate": "2023-05-31",
+    "link": "",
+    "author": "Asad Mehmood",
+    "thumbnail": "/img/driver.png",
+    "categories": ["Machine Learning","Deep Learning","Artificial Intelligence","Neural Network"]
+  },
+  {
+    "title": "Driver Alertness",
+    "pubDate": "2023-05-31",
+    "link": "",
+    "author": "Asad Mehmood",
+    "thumbnail": "/img/driver.png",
+    "categories": ["Machine Learning","Deep Learning","Artificial Intelligence","Neural Network"]
+  }
+
+]
