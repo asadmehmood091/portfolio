@@ -1,4 +1,3 @@
-
 // Section structure
 import Section from '../../../structure/section';
 import Container from '../../../structure/container';
@@ -17,7 +16,7 @@ export default function Education() {
                 <SectionTitle
                     title="Education"
                     preTitle="Formal"
-                    subTitle="I am currently studying computer science at the Velammal college of engineering and technology."
+                    subTitle="I have completed my Bachelor's in Computer Science at Northern University of Engineering and Technology. Feel free to ask if you have any questions about my academic background."
                 />
                 <section className={career.area}>
 
@@ -25,9 +24,16 @@ export default function Education() {
                         <div className={career.companyContent}>
         <span className={career.companyHeader}>
             <h3>Northern University of Engineering and Technology</h3>
-            <h5>Nowshera, Pakistan</h5>
+            <h5>KPK, Pakistan</h5>
         </span>
-                            <p>I am currently pursuing my Bachelors degree in Computer Science and Engineering at Velammal College of Engineering and Technology. This four-year program offers a comprehensive curriculum that covers various aspects of computer science and its applications.</p>
+                            <p>I have completed my Bachelor's in Computer Science and Engineering at Northern
+                                University. Throughout the four-year program, I gained a comprehensive understanding of
+                                various aspects of computer science and its applications. The curriculum covered key
+                                areas such as programming languages, algorithms, data structures, computer networks,
+                                databases, and software engineering. During this academic journey, I actively
+                                participated in projects, coding competitions, and internships to acquire real-world
+                                experience and enhance my skills. I have successfully built a strong portfolio to
+                                support my future career endeavors.</p>
 
                         </div>
                         <div className={career.companyAlt}></div>

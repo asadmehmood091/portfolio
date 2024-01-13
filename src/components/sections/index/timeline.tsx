@@ -6,8 +6,8 @@ import styles from '../../../styles/scss/sections/index/career.module.scss';
 import timeline from '../../../styles/scss/sections/index/timeline.module.scss';
 
 const timelineData = [
-    { year: '2024', text: 'Lorem ipsum ...' },
     { year: '2023', text: 'Lorem ipsum ...' },
+    { year: '2022', text: 'Lorem ipsum ...' },
     // Add more timeline items as needed
 ];
 

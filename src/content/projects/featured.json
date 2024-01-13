@@ -1,58 +1,192 @@
 [
-	{
-		"project": "NITB - Driver Alertness",
-		"url": "https://github.com/asadmehmood091",
-		"repo": "Private",
-		"descriptionTitle": "NeuroLink is a package",
-		"description": "that aims to provide various AI capabilities, including a chatbot, image processing, audio processing, Django support, and more. It utilizes TensorFlow and other related technologies for natural language processing and AI tasks.",
-		"imageOptions": [
-		],
-		"images": [
-			{ "key": "mock-stack",	"hover": "right", 	"h": "300", "w": "700", "url": "/img/neurolink.png" }
+  {
+    "project": "NITB - Driver Alertness Detection\n",
+    "url": "https://github.com/asadmehmood091/",
+    "repo": "Private",
+    "descriptionTitle": "Pakistan Government Project",
+    "description": "Driver alertness detection is a vehicle safety system that monitors a driver's alertness and alerts the driver when needed. It's also known as a driver attention monitor.",
+    "imageOptions": [
+    ],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "300",
+        "w": "700",
+        "url": "/img/dataism-24.svg"
+      }
+    ],
+    "stack": [
+      {
+        "key": "python",
+        "name": "Python",
+        "type": "devicon"
+      },
+      {
+        "key": "tensorflow",
+        "name": "TensorFlow",
+        "type": "devicon"
+      },
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git",
+        "type": "devicon"
+      },
+      {
+        "key": "numpy",
+        "name": "NumPy",
+        "type": "devicon"
+      },
+      {
+        "key": "scikit",
+        "name": "scikit-learn",
+        "type": "devicon"
+      },
+      {
+        "key": "pytorch",
+        "name": "PyTorch",
+        "type": "devicon"
+      },
+      {
+        "key": "keras",
+        "name": "Keras",
+        "type": "devicon"
+      },
+      {
+        "key": "js",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "typescript",
+        "name": "TypeScript",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "asadmehmood.info",
+    "url": "https://github.com/asadmehmood091/portfolio",
+    "repo": "Private",
+    "descriptionTitle": "A portfolio website",
+    "description": "built on Next.js and React. A fast and responsive single page application.",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "550",
+        "w": "352",
+        "url": "/img/img-mock.png"
+      }
+    ],
+    "stack": [
+      {
+        "key": "nextjs",
+        "name": "Next.js",
+        "type": "devicon"
+      },
+      {
+        "key": "react",
+        "name": "React",
+        "type": "devicon"
+      },
+      {
+        "key": "nodejs",
+        "name": "Node.js",
+        "type": "devicon"
+      },
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "typescript",
+        "name": "Typescript",
+        "type": "devicon"
+      },
+      {
+        "key": "html5",
+        "name": "HTML5",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "sass",
+        "name": "SCSS",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "NIKKAH FIRST -  Islamic Matrimony App\n",
+    "url": "https://github.com/asadmehmood091/",
+    "repo": "Private",
+    "descriptionTitle": "UK Client Project ",
+    "description": "Developed an Islamic Matrimony App using Next.js and React Query. The app facilitates marriage proposals for Muslim boys\nand girls, with a unique guardian access feature for enhanced security and oversight.",
+    "imageOptions": [
+    ],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "200",
+        "w": "450",
+        "url": "/img/nikkah.png"
+      }
+    ],
+    "stack": [
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
 
-		],
-		"stack": [
-			{ "key": "python", "name": "Python", "type": "devicon" },
-			{ "key": "tensorflow", "name": "TensorFlow", "type": "devicon" },
-			{ "key": "javascript", "name": "JavaScript", "type": "devicon" },
-			{ "key": "git", "name": "Git", "type": "devicon" },
-			{ "key": "numpy", "name": "NumPy", "type": "devicon" },
-			{ "key": "scikit", "name": "scikit-learn", "type": "devicon" },
-			{ "key": "pytorch", "name": "PyTorch", "type": "devicon" },
-			{ "key": "keras", "name": "Keras", "type": "devicon" },
-			{ "key": "js", "name": "JavaScript", "type": "devicon" },
-			{ "key": "typescript", "name": "TypeScript", "type": "devicon" },
-			{ "key": "c", "name": "C", "type": "devicon" },
-			{ "key": "cpp", "name": "C++", "type": "devicon" }
-		]
-
-	},
-	{
-		"project": "asadmehmood.info",
-		"url": "https://github.com/asadmehmood091",
-		"repo": "Private",
-		"descriptionTitle": "An open-source portfolio website",
-		"description": "built on Next.js and React. A fast and responsive single page application.",
-		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
-		],
-		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "550", "w": "330",  "url": "/img/img-mock.png" }
-		],
-		"stack": [
-			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
-			{ "key": "react", 		"name": "React", 		"type": "devicon" },
-			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "typescript", 	"name": "Typescript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
-			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{"key": "python", "name": "Python", "type": "devicon"},
-			{"key": "django", "name": "Django", "type": "devicon"}
-
-		]
-	}
-	
+      {
+        "key": "reactQuery",
+        "name": "ReactQuery",
+        "type": "devicon"
+      },
+      {
+        "key": "Redux",
+        "name": "ReduxToolkit",
+        "type": "devicon"
+      },
+      {
+        "key": "js",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "typescript",
+        "name": "TypeScript",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git",
+        "type": "devicon"
+      }
+    ]
+  }
 ]

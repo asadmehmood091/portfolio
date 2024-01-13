@@ -18,10 +18,6 @@
 			"person": "Documentations",
 			"link": "https://asadmehmood.info/docs",
 			"note": ""
-		},	{
-			"person": "Articles",
-			"link": "https://asadmehmood.info/articles",
-			"note": ""
 		},
 
 		{
@@ -39,11 +35,6 @@
 	],
 
 	"social": [
-		{
-			"url": "https://facebook.com/@muhammad-fiaz",
-			"icon": "facebook"
-		},
-		
 		{
 			"url": "https://www.linkedin.com/in/asad-mehmoodbs/",
 			"icon": "linkedin"

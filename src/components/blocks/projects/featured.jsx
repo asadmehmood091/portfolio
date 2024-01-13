@@ -12,7 +12,7 @@ import css from '../../../styles/scss/sections/projects/featured.module.scss'
 
 export default function FeaturedProject({ content }, index) {
 
-	const { project, url, repo, descriptionTitle,description, stack, imageOptions, images } = content
+	const { project,  repo, descriptionTitle,description, stack,  images } = content
 
 	const controls = useAnimation();
 	const { ref, inView  } = useInView({

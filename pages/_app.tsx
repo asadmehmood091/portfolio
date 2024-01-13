@@ -7,7 +7,7 @@ import {domAnimation, LazyMotion} from "framer-motion"
 import SetGridGap from '../src/components/utils/set.grid'
 import Layout from '../src/components/layout/layout'
 import LoadingScreen from "../src/components/intro/splash";
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import {SpeedInsights} from "@vercel/speed-insights/next"
 // Global CSS
 import "../node_modules/the-new-css-reset/css/reset.css"
 import "@fontsource/fira-code/400.css"
@@ -19,16 +19,14 @@ import '../node_modules/devicon/devicon.min.css'
 import '../src/styles/css/variables.css'
 import '../src/styles/css/global.css'
 import "../src/styles/css/utils/splash.css";
-import "../src/styles/css/utils/chatbot.css";
 import "../src/styles/css/utils/backtotop.css";
 import dynamic from "next/dynamic";
 import "../src/styles/css/sections/404.css";
 import "../src/styles/css/utils/anim.css";
 import settings from '../src/content/_settings.json';
-const DevelopmentNotice = dynamic(() => import( "../src/components/dev/status"));
+
 const BackToTop = dynamic(() => import("../src/components/utils/backtotop"));
-const Chatbot = dynamic(() => import("../src/components/sections/index/chatbot"));
-import { AppProps } from 'next/app';
+import {AppProps} from 'next/app';
 
 
 // NProgress configuration
@@ -50,12 +48,12 @@ Router.events.on('routeChangeError', () => {
     NProgress.done();
 });
 
-interface MyAppProps extends AppProps{
+interface MyAppProps extends AppProps {
     Component: React.FC;
     pageProps: any;
 }
 
-const MyApp: React.FC<MyAppProps> = ({ Component, pageProps }) => {
+const MyApp: React.FC<MyAppProps> = ({Component, pageProps}) => {
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
@@ -78,18 +76,16 @@ const MyApp: React.FC<MyAppProps> = ({ Component, pageProps }) => {
     return (
         <>
             {isLoading ? (
-                <LoadingScreen />
+                <LoadingScreen/>
             ) : (
                 <LazyMotion features={domAnimation}>
                     <Layout>
                         <Component {...pageProps} />
-                        <DevelopmentNotice />
-                        <Chatbot />
                         <SpeedInsights/>
-                        <Analytics />
-                        <SetGridGap />
+                        <Analytics/>
+                        <SetGridGap/>
                     </Layout>
-                    <BackToTop />
+                    <BackToTop/>
                 </LazyMotion>
             )}
         </>

@@ -13,9 +13,6 @@ export default function TitleIndex() {
             <meta name="application-name" content="Asad Mehmood" />
             <meta name="description" content="Asad Mehmood - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey." />
             <meta name="title" content="Asad Mehmood"/>
-
-          
-
         </Head>
     );
 }

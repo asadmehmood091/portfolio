@@ -4,15 +4,15 @@
     "title": "Home"
   },
   {
-    "url": "/articles",
-    "title": "About"
-  },
-  {
     "url": "/docs",
     "title": "Docs"
   },
   {
     "url": "/projects",
     "title": "Projects"
+  },
+  {
+    "url": "/",
+    "title": "Contact"
   }
 ]
