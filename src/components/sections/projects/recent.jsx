@@ -62,10 +62,9 @@ export default function GitProjects({ repos, user }) {
 						);
 					})}
 				</div>
-				{/*
-        <pre>{ JSON.stringify(user, undefined, 2) }</pre>
-        <pre>{ JSON.stringify(repos, undefined, 2) }</pre>
-        */}
+
+        {/*<pre>{ JSON.stringify(user, undefined, 2) }</pre>*/}
+        {/*<pre>{ JSON.stringify(repos, undefined, 2) }</pre>*/}
 			</Container>
 		</Section>
 	);

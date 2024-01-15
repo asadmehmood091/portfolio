@@ -1,8 +1,21 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background:var(--primary-dim);
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background:var(--secondary);
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--neon-1-1);
+}
 ::-moz-selection{
     color:var(--background);
     background:var(--secondary)
@@ -164,4 +177,3 @@ a svg{
     background-clip:text;
     -webkit-text-fill-color:rgba(0,0,0,0)
 }
-/*# sourceMappingURL=global.css.map */

@@ -25,7 +25,6 @@ export default function GithubGraphSection() {
                 <div className={styles.company}>
                     <div className={`${styles.companyContent} `} >
                         <div className="space-y-6 pb-18 pt-100 md:space-y-12">
-
                                 <div className="mt-3 flex flex-wrap gap-3 text-md leading-7">
                                     {contributionYears.map((singleYear) => (
                                         <button
@@ -48,7 +47,6 @@ export default function GithubGraphSection() {
                                     colorScheme="dark"
                                 />
                             </div>
-
                         </div>
                     </div>
                 </div>

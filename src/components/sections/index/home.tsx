@@ -59,8 +59,6 @@ export default function Home() {
                             icon={['fas', 'book']}
                             copy="I have an insatiable thirst for knowledge and a passion for continuous learning and development. Keeping up with the latest industry trends and emerging technologies allows me to stay ahead of the curve. By actively seeking new challenges and expanding my skill set, I constantly push the boundaries of my abilities, ensuring that I deliver cutting-edge solutions and provide valuable insights to clients."
                         />
-
-
                         <BadgesBlock
                             title="Research and planning"
                             containerClass={about.container}
