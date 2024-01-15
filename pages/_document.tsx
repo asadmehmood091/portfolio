@@ -61,17 +61,6 @@ export default function Document() {
                 <meta property="og:title" content="Asad Mehmood" key="title"/>
                 <meta property="og:description"
                       content="Asad Mehmood - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey."/>
-
-
-                <meta name="twitter:card" content="summary"/>
-                <meta name="twitter:title" content="Asad Mehmood"/>
-                <meta name="twitter:description"
-                      content="Asad Mehmood - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey."/>
-                <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/75434191?v=4"/>
-
-                <meta name="twitter:domain" content="https://asadmehmood.info"/>
-
-
                 <link rel='apple-touch-startup-image' href='/img/logo_rounded.png' sizes='2048x2732'/>
                 <link rel='apple-touch-startup-image' href='/img/logo_rounded.png' sizes='1668x2224'/>
                 <link rel='apple-touch-startup-image' href='/img/logo_rounded.png' sizes='1536x2048'/>
@@ -132,37 +121,6 @@ export default function Document() {
         }`
                     }}
                 />
-                {/*Edit this to your according to your website*/}
-                <script type="application/ld+json" dangerouslySetInnerHTML={{
-                    __html: `
-          {
-            "@context": "https://schema.org/",
-            "@type": "BreadcrumbList",
-            "itemListElement": [{
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://asadmehmood.info/"
-            },{
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Docs",
-              "item": "https://asadmehmood.info/docs"
-            },{
-              "@type": "ListItem",
-              "position": 3,
-              "name": "about",
-              "item": "https://asadmehmood.info/about"
-            },{
-              "@type": "ListItem",
-              "position": 4,
-              "name": "Projects",
-              "item": "https://asadmehmood.info/projects"
-            }]
-          }
-        `
-                }}/>
-
                 {/*theme*/}
                 <Script id="theme.util.jsx" strategy="beforeInteractive">
                     {`

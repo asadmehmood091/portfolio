@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react';
 import GitHubCalendar from 'react-github-calendar';
-import about from '../../../styles/scss/sections/index/about.module.scss';
 import styles from "../../../styles/scss/sections/index/career.module.scss";
 import SectionTitle from "../../blocks/section.title";
 import Section from "../../structure/section";
