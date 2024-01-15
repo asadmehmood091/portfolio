@@ -1,4 +1,5 @@
 import hero from '../../../styles/scss/sections/index/hero.module.scss';
+import React from "react";
 export default function sectionBgColor() {
 	return (
 		<div className={`${hero.heroBackground}`}>

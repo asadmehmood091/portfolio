@@ -11,7 +11,6 @@ import HeroBg from '../../blocks/hero.bg/section-bg-color';
 
 import hero from '../../../styles/scss/sections/index/hero.module.scss';
 import button from '../../../styles/scss/blocks/button.module.scss';
-
 import content from '../../../content/index/hero.json';
 
 export default function Hero() {
@@ -57,7 +56,7 @@ export default function Hero() {
 						{content.paragraph}
 					</p>
 				</section>
-				<section style={{ position: 'relative' }}>
+				<section style={{position: 'relative'}}>
 					<button
 						className={`button ${button.primary}`}
 						onClick={() => (window.location = 'mailto:asadmehmood091@gmail.com')}
@@ -69,7 +68,7 @@ export default function Hero() {
 					{isHiremeTooltipVisible && (
 						<div className={`${hero.tooltipContent} ${hero.hireme_tooltip}`}>
 
-							<Image src="/gif/hireme.gif" width={100} height={100} alt="Yescat GIF" />
+							<Image src="/gif/hireme.gif" width={100} height={100} alt="Yescat GIF"/>
 
 						</div>
 					)}
@@ -86,13 +85,13 @@ export default function Hero() {
 					{isYescatTooltipVisible && (
 						<div className={`${hero.tooltipContent} ${hero.yescat_tooltip}`}>
 
-							<Image src="/gif/yes.gif" width={100} height={100} alt="GIF" />
+							<Image src="/gif/yes.gif" width={100} height={100} alt="GIF"/>
 
 						</div>
 					)}
 				</section>
 			</Container>
-			<HeroBg theme="bg-color-1" />
+			<HeroBg theme="bg-color-1"/>
 		</Section>
 	);
 }

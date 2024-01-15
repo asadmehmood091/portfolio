@@ -1,10 +1,10 @@
 [
   {
-    "project": "NITB - Driver Alertness Detection\n",
+    "project": "NIKKAH FIRST\n",
     "url": "https://github.com/asadmehmood091/",
     "repo": "Private",
-    "descriptionTitle": "Pakistan Government Project",
-    "description": "Driver alertness detection is a vehicle safety system that monitors a driver's alertness and alerts the driver when needed. It's also known as a driver attention monitor.",
+    "descriptionTitle": "Islamic Matrimony App",
+    "description": "Developed an Islamic Matrimony App using Next.js and React Query. The app facilitates marriage proposals for Muslim boys\nand girls, with a unique guardian access feature for enhanced security and oversight.",
     "imageOptions": [
     ],
     "images": [
@@ -13,48 +13,24 @@
         "hover": "right",
         "h": "300",
         "w": "700",
-        "url": "/img/dataism-24.svg"
+        "url": "/img/nikkah.png"
       }
     ],
     "stack": [
-      {
-        "key": "python",
-        "name": "Python",
-        "type": "devicon"
-      },
-      {
-        "key": "tensorflow",
-        "name": "TensorFlow",
-        "type": "devicon"
-      },
       {
         "key": "javascript",
         "name": "JavaScript",
         "type": "devicon"
       },
+
       {
-        "key": "git",
-        "name": "Git",
+        "key": "reactQuery",
+        "name": "ReactQuery",
         "type": "devicon"
       },
       {
-        "key": "numpy",
-        "name": "NumPy",
-        "type": "devicon"
-      },
-      {
-        "key": "scikit",
-        "name": "scikit-learn",
-        "type": "devicon"
-      },
-      {
-        "key": "pytorch",
-        "name": "PyTorch",
-        "type": "devicon"
-      },
-      {
-        "key": "keras",
-        "name": "Keras",
+        "key": "Redux",
+        "name": "ReduxToolkit",
         "type": "devicon"
       },
       {
@@ -65,6 +41,11 @@
       {
         "key": "typescript",
         "name": "TypeScript",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git",
         "type": "devicon"
       }
     ]
@@ -134,57 +115,6 @@
       {
         "key": "git",
         "name": "Git(Hub)",
-        "type": "devicon"
-      }
-    ]
-  },
-  {
-    "project": "NIKKAH FIRST -  Islamic Matrimony App\n",
-    "url": "https://github.com/asadmehmood091/",
-    "repo": "Private",
-    "descriptionTitle": "UK Client Project ",
-    "description": "Developed an Islamic Matrimony App using Next.js and React Query. The app facilitates marriage proposals for Muslim boys\nand girls, with a unique guardian access feature for enhanced security and oversight.",
-    "imageOptions": [
-    ],
-    "images": [
-      {
-        "key": "mock-stack",
-        "hover": "right",
-        "h": "200",
-        "w": "450",
-        "url": "/img/nikkah.png"
-      }
-    ],
-    "stack": [
-      {
-        "key": "javascript",
-        "name": "JavaScript",
-        "type": "devicon"
-      },
-
-      {
-        "key": "reactQuery",
-        "name": "ReactQuery",
-        "type": "devicon"
-      },
-      {
-        "key": "Redux",
-        "name": "ReduxToolkit",
-        "type": "devicon"
-      },
-      {
-        "key": "js",
-        "name": "JavaScript",
-        "type": "devicon"
-      },
-      {
-        "key": "typescript",
-        "name": "TypeScript",
-        "type": "devicon"
-      },
-      {
-        "key": "git",
-        "name": "Git",
         "type": "devicon"
       }
     ]

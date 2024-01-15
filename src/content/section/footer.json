@@ -1,47 +1,41 @@
 {
-	"Websites": [
-		{
-			"person": "asadmehmood.info",
-			"link": "https://asadmehmood.info/",
-			"note": ""
-		}
-
-	],
-
-	"links": [
-		{
-			"person": "Home",
-			"link": "https://asadmehmood.info/",
-			"note": ""
-		},
-		{ 
-			"person": "Documentations",
-			"link": "https://asadmehmood.info/docs",
-			"note": ""
-		},
-
-		{
-			"person": "Projects",
-			"link": "https://asadmehmood.info/projects",
-			"note": ""
-		},
-		{
-			"person": "Contact",
-			"link": "mailto:asadmehmood091@gmail.com",
-			"note": ""
-		}
-
-
-	],
-
-	"social": [
-		{
-			"url": "https://www.linkedin.com/in/asad-mehmoodbs/",
-			"icon": "linkedin"
-		},
-		{
-			"url": "https://github.com/asadmehmood091",
-			"icon": "github"
-		}
-	]
+  "Websites": [
+    {
+      "person": "asadmehmood.info",
+      "link": "https://asadmehmood.info/",
+      "note": ""
+    }
+  ],
+  "links": [
+    {
+      "person": "Home",
+      "link": "https://asadmehmood.info/",
+      "note": ""
+    },
+    {
+      "person": "About",
+      "link": "https://asadmehmood.info/about",
+      "note": ""
+    },
+    {
+      "person": "Projects",
+      "link": "https://asadmehmood.info/projects",
+      "note": ""
+    },
+    {
+      "person": "Contact",
+      "link": "mailto:asadmehmood091@gmail.com",
+      "note": ""
+    }
+  ],
+  "social": [
+    {
+      "url": "https://www.linkedin.com/in/asad-mehmoodbs/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/asadmehmood091",
+      "icon": "github"
+    }
+  ]
 }

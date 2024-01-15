@@ -26,7 +26,7 @@ export default function Education() {
             <h3>Northern University of Engineering and Technology</h3>
             <h5>KPK, Pakistan</h5>
         </span>
-                            <p>I have completed my Bachelor's in Computer Science and Engineering at Northern
+                            <p>I have completed my Bachelor`s in Computer Science and Engineering at Northern
                                 University. Throughout the four-year program, I gained a comprehensive understanding of
                                 various aspects of computer science and its applications. The curriculum covered key
                                 areas such as programming languages, algorithms, data structures, computer networks,

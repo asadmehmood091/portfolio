@@ -2,25 +2,53 @@
   {
     "title": "asadmehmood.info",
     "pubDate": "2024-01-12",
-    "link": "",
+    "link": "asadmehmood.info",
     "author": "Asad Mehmood",
     "thumbnail": "/img/jobs.png",
-    "categories": ["Portfolio", "Website", "Blog","personal"]
+    "categories": [
+      "Portfolio",
+      "Website",
+      "Blog",
+      "personal"
+    ]
   },
   {
     "title": "NITB Driver Alertness Detection",
     "pubDate": "2023-12-25",
     "link": "",
     "author": "Asad Mehmood",
-    "thumbnail": "/img/driver.png",
-    "categories": ["JavaScript","Reactjs","Nextjs","Python"]
+    "thumbnail": "/img/driverMonitoring.png",
+    "categories": [
+      "JavaScript",
+      "Reactjs",
+      "Nextjs",
+      "Python"
+    ]
   },
   {
     "title": "Nikkah First",
     "pubDate": "2023-05-31",
+    "link": "https://www.nikkahfirst.com/",
+    "author": "Asad Mehmood",
+    "thumbnail": "/img/nikkahFirst.png",
+    "categories": [
+      "JavaScript",
+      "Reactjs",
+      "Nextjs",
+      "ReactQuery"
+    ]
+  },
+  {
+    "title": "VFS",
+    "pubDate": "2023-09-08",
     "link": "",
     "author": "Asad Mehmood",
-    "thumbnail": "/img/nikkah.png",
-    "categories": ["JavaScript","Reactjs","Nextjs","ReactQuery"]
+    "thumbnail": "/img/vfs.png",
+    "categories": [
+      "JavaScript",
+      "Reactjs",
+      "Nextjs",
+      "ReactQuery"
+    ]
   }
 ]
